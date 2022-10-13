@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
-<h3 align="center">I am a 3rd year student of Geoinformatics at Cracow University of Technology. I started my first steps in programming 3 years ago. I started with the C language. During my studies I learned Python and databases. On my own, I started to learn Java, which I liked and most of my attention is devoted to it. In my free time I skateboard and play amateur soccer.</h3>
+<h3 align="center">I am a 3rd year student of Geoinformatics at Cracow University of Technology.</h3>
 
 - 🔭 I’m currently working as English helpdesk analyst **HCL**
 
