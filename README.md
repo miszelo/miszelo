@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
 <h3 align="center">I am a 3rd year student of Geoinformatics at Cracow University of Technology.</h3>
 
-- 🔭 I’m currently working as English helpdesk analyst **HCL**
+- 🔭 I’m currently working as IT Helpdesk Analyst **HCL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
