@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
 <h3 align="center">I am a 3rd year student of Geoinformatics at Cracow University of Technology.</h3>
 
-
-- 🔭 I’m currently working as helpdesk analyst with English **HCL**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/michalkawczak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michalkawczak" height="30" width="40" /></a>
