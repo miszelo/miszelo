@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
-<h3 align="center">I am a 3rd year student of Geoinformatics at Cracow University of Technology.</h3>
+<h3 align="center">I am a Software Engineer Intern at Sabre Poland.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
